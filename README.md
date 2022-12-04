@@ -1,3 +1,6 @@
+<h3>ZX48 by Kyp069 - 
+Author URL: https://github.com/Kyp069/zx48-MiSTer
+
 <h3>Alternative ZX Spectrum 48K FPGA implementation for MiSTer</h3>
 
 <p>Implements a standard ZX Spectrum 48K computer and the follwing hardware:</p>
